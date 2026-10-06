@@ -1,0 +1,5 @@
+node_modules/
+.vercel/
+.source-cache/
+__pycache__/
+*.pyc

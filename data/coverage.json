@@ -1,0 +1,13 @@
+{
+  "checkedOn": "2026-10-06",
+  "totalConditions": 299,
+  "originalConditions": 289,
+  "addedConditions": 10,
+  "statusCounts": {
+    "specialty-only": 178,
+    "condition-source": 104,
+    "related-source": 17
+  },
+  "summaryCount": 3,
+  "importantLimitation": "Source routing is not a complete clinical revalidation. Only explicitly labelled summaries replace old treatment passages. Other doses/durations remain unreviewed in the 2013 archive. ICMR document years are not inferred from upload timestamps; undated MoHFW documents are not described as new editions."
+}
